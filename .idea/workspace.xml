@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f60a19c-1720-491b-b12f-89260997e0bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carts/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/css/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/css/my_css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/css/my_footer_css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/favicon/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/basket2-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/box-arrow-in-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/box-arrow-in-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/cart-plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/grid-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/icons/trash3-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/Not found image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/baseavatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/bg-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/bedside table.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/corner sofa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/double bed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/flower.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/kitchen table 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/kitchen table.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/office chair.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/plants.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/set of tea table and three chairs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/set of tea table and two chairs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/sofa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/images/goods/strange table.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/js/bootstrap/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/js/jquery-ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/js/jquery-events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deps/js/jquery/jquery-3.7.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/create_order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other_files/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other_files/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other_files/goods_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other_files/notifications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other_files/sale_banner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other_files/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/registration.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/manage.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2alwRT2QdhWtZaU7tfL3LaiYHkV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ADMIN/pythonProject/web/venv/Scripts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f60a19c-1720-491b-b12f-89260997e0bf" name="Changes" comment="" />
+      <created>1704906464484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704906464484</updated>
+      <workItem from="1704906467067" duration="2723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web$manage.coverage" NAME="manage Coverage Results" MODIFIED="1704907891122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+  </component>
+</project>
